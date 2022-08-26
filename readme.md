@@ -16,6 +16,11 @@ Lancer les commandes suivantes.
 ```bash
 > pip install -r requirements.txt
 ```
+#### Création de la base de données
+```bash
+> manage.py makemigrations
+> manage.py migrate
+```
 
 # Démarrer le serveur: 
 
