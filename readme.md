@@ -18,8 +18,8 @@ Lancer les commandes suivantes.
 ```
 #### Création de la base de données
 ```bash
-> manage.py makemigrations
-> manage.py migrate
+> py manage.py makemigrations
+> py manage.py migrate
 ```
 
 # Démarrer le serveur: 
