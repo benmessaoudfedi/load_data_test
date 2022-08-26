@@ -1,0 +1,13 @@
+prefix=D:/load_data_test/venv/Library
+exec_prefix=D:/load_data_test/venv/Library
+libdir=D:/load_data_test/venv/Library/lib
+sharedlibdir=D:/load_data_test/venv/Library/lib
+includedir=D:/load_data_test/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.12
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
