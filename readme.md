@@ -7,7 +7,7 @@ Lancer les commandes suivantes.
 
 #### Création de l'environement virtuel
 ```bash
-> python -m venv env
+> python -m venv venv
 > cd env/scripts
 > activate
 > cd ../..
